@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" x="0px" y="0px" width="70px" height="90px" viewBox="21.093 -23.409 70 90" enable-background="new 21.093 -23.409 70 90" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <g>
+    <defs>
+      <polygon id="SVGID_1_" points="56.655,64.216 44.952,42.087 68.357,42.087   "/>
+    </defs>
+    <clipPath id="SVGID_2_">
+      <polygon points="56.655,64.216 44.952,42.087 68.357,42.087   " overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#SVGID_2_)">
+      <defs>
+        <rect id="SVGID_3_" x="-340.591" y="-221.325" width="612.783" height="922.579"/>
+      </defs>
+      <clipPath id="SVGID_4_">
+        <rect x="-340.591" y="-221.325" width="612.783" height="922.579" overflow="visible"/>
+      </clipPath>
+      <rect x="42.824" y="39.959" clip-path="url(#SVGID_4_)" width="27.66" height="26.385" style="fill: rgb(38, 65, 88);"/>
+    </g>
+  </g>
+  <g>
+    <defs>
+      <circle id="SVGID_5_" cx="56.229" cy="12.086" r="34.256"/>
+    </defs>
+    <clipPath id="SVGID_6_">
+      <circle cx="56.229" cy="12.086" r="34.256" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#SVGID_6_)">
+      <defs>
+        <rect id="SVGID_7_" x="-340.591" y="-221.325" width="612.783" height="922.579"/>
+      </defs>
+      <clipPath id="SVGID_8_">
+        <rect x="-340.591" y="-221.325" width="612.783" height="922.579" overflow="visible"/>
+      </clipPath>
+      <rect x="19.845" y="-24.298" clip-path="url(#SVGID_8_)" width="72.769" height="72.769" style="fill: rgb(38, 65, 88);"/>
+    </g>
+  </g>
+  <text style="fill: rgb(255, 255, 255); font-family: Baloo; font-size: 21px; white-space: pre;" x="36.408" y="16.687">MCF</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="77.02" y="30.453"> </text>
+</svg>
