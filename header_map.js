@@ -1987,8 +1987,8 @@
                             active: n === a
                         }),
                         P = new d.a.Icon({
-                            iconUrl: n === a ? "logosMCF/pin-blue.svg" : "logosMCF/pin.svg",
-                            iconRetinaUrl: n === a ? "logosMCF/pin-blue.svg" : "logosMCF/pin.svg",
+                            iconUrl: n === a ? "https://thefrox.github.io/mapping/pin-blue.svg" : "https://thefrox.github.io/mapping/pin.svg",
+                            iconRetinaUrl: n === a ? "https://thefrox.github.io/mapping/pin-blue.svg" : "https://thefrox.github.io/mapping/pin.svg",
                             iconSize: [50, 70]
                         }),
                         w = Object(s.useRef)(null);
